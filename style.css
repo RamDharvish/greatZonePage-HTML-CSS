@@ -1,0 +1,132 @@
+body {
+    background-color: black;
+
+}
+
+.content {
+    width: 80%;
+    height: 1860px;
+    background-color: white;
+    margin: auto;
+    position: relative;
+    margin-top: -8px;
+margin-bottom: -7px;
+
+}
+
+.top {
+    width: 100%;
+    height: 50PX;
+    /* background-color: red; */
+    position: absolute;
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+
+}
+
+li {
+
+    color: rgb(8, 8, 8);
+    text-align: center;
+    padding-right: 35px;
+    text-decoration: none;
+    float: right;
+}
+
+.first-box {
+    width: 100%;
+    height: 300px;
+    /* background-color: blue; */
+    position: absolute;
+    margin-top: 120px;
+}
+
+.first-img {
+    width: 550px;
+    float: right;
+    height: 300px;
+    margin-right: 110px;
+    border-radius: 50px;
+}
+
+.second-box {
+    width: 80%;
+    height: 220px;
+    border: 1px solid black;
+    margin-top: 500px;
+    position: absolute;
+    margin-left: 120px;
+}
+
+.third-box {
+    width: 100%;
+    height: 400px;
+    /* background-color: blueviolet; */
+    position: absolute;
+    margin-top: 800px;
+}
+
+.one {
+    height: 400px;
+    width: 300px;
+    background-color: white;
+    margin-left: 70px;
+    box-shadow: 1px 1px 4px;
+
+}
+
+.two {
+    height: 400px;
+    width: 300px;
+    background-color: white;
+    margin-left: 100px;
+    box-shadow: 1px 1px 4px;
+    float: right;
+    margin-top: -400px;
+    margin-right: 440px;
+}
+
+.three {
+    height: 400px;
+    width: 300px;
+    background-color: white;
+    margin-left: 100px;
+    box-shadow: 1px 1px 4px;
+    float: right;
+    margin-top: -400px;
+    margin-right: 60px;
+}
+
+.fourth-box {
+    background-color: whitesmoke;
+    width: 85%;
+    height: 400px;
+    margin-top: 1270px;
+    position: absolute;
+    margin-left: 95px;
+
+}
+
+.btn {
+    background-color: blueviolet;
+    width: 150px;
+    height: 50px;
+    float: right;
+    margin-top: 1700px;
+    margin-right: 78px;
+    color: white;
+    font-size: 20px;
+}
+
+.end-part {
+    width: 100%;
+    height: 100px;
+    /* background-color: red; */
+    border-top: 1px solid;
+    position: absolute;
+    margin-top: 1760px;
+}
